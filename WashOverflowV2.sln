@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WashOverflowV2.SpecFlowTests", "..\WashOverflowV2.SpecFlowTests\WashOverflowV2.SpecFlowTests.csproj", "{74B18B18-62A8-4047-9B32-A6DC5E29EE18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WashOverflowV2", "WashOverflowV2\WashOverflowV2.csproj", "{CD283940-3AC1-40ED-8E60-957ADA728A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B18B18-62A8-4047-9B32-A6DC5E29EE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B18B18-62A8-4047-9B32-A6DC5E29EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B18B18-62A8-4047-9B32-A6DC5E29EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B18B18-62A8-4047-9B32-A6DC5E29EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD283940-3AC1-40ED-8E60-957ADA728A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD283940-3AC1-40ED-8E60-957ADA728A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD283940-3AC1-40ED-8E60-957ADA728A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD283940-3AC1-40ED-8E60-957ADA728A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED64700-4EFB-400C-A085-7450AFED36EB}
+	EndGlobalSection
+EndGlobal

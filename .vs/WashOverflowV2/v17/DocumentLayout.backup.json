@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\source\\repos\\WashoverflowV2.Testprojekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B18B18-62A8-4047-9B32-A6DC5E29EE18}|..\\WashOverflowV2.SpecFlowTests\\WashOverflowV2.SpecFlowTests.csproj|c:\\users\\x\\source\\repos\\washoverflowv2.specflowtests\\washoverflowv2.specflowtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WashOverflowV2.SpecFlowTests",
+              "DocumentMoniker": "C:\\Users\\X\\source\\repos\\WashOverflowV2.SpecFlowTests\\WashOverflowV2.SpecFlowTests.csproj",
+              "RelativeDocumentMoniker": "..\\WashOverflowV2.SpecFlowTests\\WashOverflowV2.SpecFlowTests.csproj",
+              "ToolTip": "C:\\Users\\X\\source\\repos\\WashOverflowV2.SpecFlowTests\\WashOverflowV2.SpecFlowTests.csproj",
+              "RelativeToolTip": "..\\WashOverflowV2.SpecFlowTests\\WashOverflowV2.SpecFlowTests.csproj",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T21:43:30.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
